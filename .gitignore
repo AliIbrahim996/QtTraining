@@ -1,0 +1,10 @@
+Build/
+bUILD/
+build/
+BUILD
+cmake-build-debug
+.idea
+.vscode
+*.pro
+*.pro.user
+images/
